@@ -13,23 +13,35 @@
 header{
     background-color:#FE8515 ;
     grid-area: header;
+    text-align: center;  
+    color: white;
+    
 }
 main{
     background-color:#8BF10A ;
     grid-area: main;
     border-radius: 10px;
+    text-align: center;  
+    color: white;
 }
 #left-sidebar{
     background-color:#7FC242 ;
     grid-area: left-sidebar;
     border-radius: 10px;
+    text-align: center;
+    color: white;
+
 }
 #right-sidebar{
     background-color: #7FC242;
     grid-area: right-sidebar;
     border-radius: 10px;
+    text-align: center;
+    color: white;
 }
 footer{
     background-color:#F57E20 ;
     grid-area: footer;
+    text-align: center;
+    color: white;
 }
